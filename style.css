@@ -1,1 +1,35 @@
+Body {
 
+}
+
+#Banner {
+    width: 100%;
+}
+
+.principal{
+    background: #34495E 
+    padding: 30px;
+}
+
+.titulo-principal {
+    padding-left: 20px;
+}
+
+.titulo-centralizado {
+    test-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+em strong {
+    color: #ECF0F1
+}
+
+ul {
+    display: inline-block
+    vertical-align: top;
+    width: 20px;
+    margin-right: 15%;
+}
